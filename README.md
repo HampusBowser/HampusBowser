@@ -1,5 +1,5 @@
 <p align="right">
-  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/4a/4a1c8b5816c45db10ae282674b6844cd_w200.gif">
+  <img align="right" alt="Coding" width="200" height="200" src="https://i.gifer.com/origin/4a/4a1c8b5816c45db10ae282674b6844cd_w200.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
